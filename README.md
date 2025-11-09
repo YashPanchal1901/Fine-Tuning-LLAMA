@@ -1,4 +1,3 @@
-```markdown
 # 🦙 Fine-Tuned LLaMA Model (GGUF)
 
 This repository contains my fine-tuned **LLaMA model** exported in **GGUF format**, along with the tokenizer files.  
