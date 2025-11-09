@@ -6,14 +6,17 @@ The project demonstrates how to perform fine-tuning using **ORPO (Offline Reinfo
 ---
 
 ## 🚀 Project Overview
-- **Base Model**: LLaMA (Meta AI)  
-- **Fine-tuning Method**: ORPO (preference optimization for alignment)  
-- **Model Format**: GGUF (quantized for efficiency)  
-- **Tokenizer**: Included for compatibility with Hugging Face + llama.cpp  
-
-This project was developed in a Kaggle Notebook environment for research and experimentation.
+Here’s the updated **Project Overview** section with your Hugging Face link added:
 
 ---
+
+## 🚀 Project Overview
+
+* **Base Model**: LLaMA (Meta AI)
+* **Fine-tuning Method**: ORPO (preference optimization for alignment)
+* **Model Format**: GGUF (quantized for efficiency)
+* **Tokenizer**: Included for compatibility with Hugging Face + llama.cpp
+* **Model Link**: [View on Hugging Face](https://huggingface.co/YashPanchal1901/my-gguf-model)
 
 ## 📂 Repository Structure
 ```
